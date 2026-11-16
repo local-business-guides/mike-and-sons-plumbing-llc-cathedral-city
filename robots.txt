@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/mike-and-sons-plumbing-llc-cathedral-city/sitemap.xml
+Sitemap: https://local-business-guides.github.io/mike-and-sons-plumbing-llc-cathedral-city/news-sitemap.xml
